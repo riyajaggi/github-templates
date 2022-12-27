@@ -23,7 +23,7 @@
 
 
 ## Checklist
-- [ ] I have read the [Contributing Guidelines](https://github.com/goodchai0/day-planner/blob/master/CONTRIBUTING.md)?
+- [ ] I have read the Contributing Guidelines.
 - [ ] I have performed a self-review of my code and it works as expected.
 - [ ] I have made corresponding changes to the documentation (if applicable).
 - [ ] My code is clean and has no commented out code or unnecessary logging/debugging statements.
